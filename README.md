@@ -1,9 +1,5 @@
-![Screenshot (175)](https://github.com/omalmie7/Tryhakme_Linux-Fundamentals/assets/111408974/bbec4016-86b1-4031-ad85-f48163ad0a0a)
-https://github.com/omalmie7/Tryhakme_Linux-Fundamentals/assets/111408974/680ccc7a-a822-4867-8cc4-6fe76392cef0
 
-https://github.com/omalmie7/Tryhakme_Linux-Fundamentals/assets/111408974/08415e7e-8761-4422-bf2c-93facea34016
 
-https://github.com/omalmie7/Tryhakme_Linux-Fundamentals/assets/111408974/b42fdfb3-b138-4f08-b6dc-9cb1c181849b
 
 # Tryhackme - Linux Fundamentals
 
@@ -54,9 +50,16 @@ This section will go over completion of this course through screenshots and a vi
    
   TryHackMe _ Linux Fundamentals Part 1 - Google Chrome 2024-06-04 23-47-02.mp4…
 
+
+  https://github.com/omalmie7/Tryhakme_Linux-Fundamentals/assets/111408974/b42fdfb3-b138-4f08-b6dc-9cb1c181849b
+
   TryHackMe _ Linux Fundamentals Part 2 - Google Chrome 2024-06-04 23-58-07.mp4…
 
+  https://github.com/omalmie7/Tryhakme_Linux-Fundamentals/assets/111408974/08415e7e-8761-4422-bf2c-93facea34016
+
   TryHackMe _ Linux Fundamentals Part 3 - Google Chrome 2024-06-05 00-03-53.mp4…
+
+  https://github.com/omalmie7/Tryhakme_Linux-Fundamentals/assets/111408974/680ccc7a-a822-4867-8cc4-6fe76392cef0
 
   ![Screenshot (175)](https://github.com/omalmie7/Tryhakme_Linux-Fundamentals/assets/111408974/cb00169f-1ba2-4dfc-8b95-ebbbf1336c27)
 
